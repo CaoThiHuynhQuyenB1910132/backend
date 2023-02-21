@@ -10,8 +10,10 @@
   "author": "Huynh Quyen",
   "license": "ISC",
   "dependencies": {
+    "cjs": "^0.0.11",
     "cors": "^2.8.5",
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "mongodb": "^5.0.1"
   },
   "devDependencies": {
     "nodemon": "^2.0.20"
